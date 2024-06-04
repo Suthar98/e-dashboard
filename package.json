@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Suthar98/e-dashboard/issues"
   },
-  "homepage": "https://github.com/Suthar98/e-dashboard#readme"
+  "homepage": "https://github.com/Suthar98/e-dashboard#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1",
+    "nodemon": "^3.1.3"
+  }
 }
